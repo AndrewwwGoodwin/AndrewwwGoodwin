@@ -1,17 +1,9 @@
 ## Hi there 👋
-  Im, Rivista, or as I go by IRL, Andrew. Currently I'm a IT major studying at KSU.
-  
-  I like to use Github to follow projects I'm interested in, or host little projects im working on.
-  
-### Current Interests
-  I currently am working on a few little Discord bots just for fun!
-  Most stuff I work on is related to osu! in some capacity, as its my favorite game.
+  Im, Rivista, or as I go by IRL, Andrew
   
 ### Pronouns
   He/Him
-  
-### Languages
-JS, Python, and a tiny bit of C# (working on it)
+
 
 
 <!--
