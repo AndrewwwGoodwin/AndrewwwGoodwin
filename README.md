@@ -1,5 +1,5 @@
 ## Hi there 👋
-  Im, Rivista, or as I go by IRL, Andrew
+  Hey there! I'm Andrew Goodwin, a Senior IT student at Kennesaw State University!
   
 ### Pronouns
   He/Him
