@@ -1,9 +1,5 @@
 ## Hi there 👋
   Hey there! I'm Andrew Goodwin, a Senior IT student at Kennesaw State University!
-  
-### Pronouns
-  He/Him
-
 
 
 <!--
