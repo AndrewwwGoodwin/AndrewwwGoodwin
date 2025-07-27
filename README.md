@@ -1,7 +1,5 @@
 ## Hi there 👋
-  Hey there! I'm Andrew Goodwin, a Senior IT student at Kennesaw State University!
-
-
+  Hey there! I'm Andrew!
 <!--
 **Rivistaa/Rivistaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
